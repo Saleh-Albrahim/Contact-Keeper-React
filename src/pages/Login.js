@@ -29,7 +29,7 @@ const Login = () => {
         padding="5"
         borderRadius="0.5rem"
       >
-        <Text fontSize="3rem">Login !</Text>
+        <Text fontSize="3rem">Login !!</Text>
         <VStack width="80%" spacing="1rem">
           <Input
             onChange={e => setUsername(e.target.value)}
